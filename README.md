@@ -2,7 +2,7 @@
 
 Tukangin adalah website yang mempertemukan tukang dan penyedia jasa lokal (teknisi AC, tukang listrik, servis HP/laptop, pijat panggilan, dll.) dengan pelanggan, dimulai dari Kota Bandung.
 
-Dokumen ini menjelaskan isi setiap file supaya kamu, atau AI lain yang membantu merapikan, bisa mengubah website tanpa merusak bagian lain.
+Dokumen ini menjelaskan isi setiap file.
 
 ---
 
@@ -140,8 +140,3 @@ Urutan `<script>` di `index.html` harus: supabase-js → config → data → db 
 
 ---
 
-## 8. Contoh perintah untuk AI lain
-
-> Ini proyek website Tukangin. Baca README.md dulu. Saya lampirkan index.html dan supabase/1-struktur-database.sql.
-> Tugas: [jelaskan perubahan yang kamu mau].
-> Aturan: jangan ubah nama tabel atau kolom tanpa membuat file SQL migrasi baru; jangan menaruh secret key; jangan mematikan RLS; semua penulisan data lewat objek `api`; tetap satu file `index.html` yang bisa diunggah ke GitHub Pages.
